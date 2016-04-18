@@ -1,6 +1,3 @@
-//Jessica Kanczura
-//ICSI 310
-//HW #5
 
 import java.util.Scanner;
 
